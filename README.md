@@ -1,2 +1,1 @@
-# kangddos
-ddosjing
+# DevKangDDOS
